@@ -1,0 +1,9 @@
+Caluculator Test.java;
+import org.junit.Test;
+import static org.junit.assert.assert equals;
+public class Calculator Test{
+Caluculator callc=new Calculator();
+@Test public void test Addition(){assert Equals(15,calc.add(10,5));}
+@Test public void test Subtraction(){assert Equals(5,calc.subtract(10,5));}
+@Test public void test Multiplication(){assert Equals(50,calc.multiply(10,5));}
+@Test public void test Division(){assert Equals(2,calc.divide(10,5));}}
